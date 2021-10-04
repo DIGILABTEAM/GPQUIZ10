@@ -19,12 +19,12 @@ var data =
 				answer: 3
 			},
 			{
-				question: "Which drug cause nausea, drowsiness, dizziness and at higher dose cause hallucination, ataxia may occur",
-				option1: "Noscapine",
-				option2: "Chlophedianol",
-				option3: "Dextromethorphan",
-				option4: "Prenoxydiazine",
-				answer: 3
+				question: "In history of patient with cough, what drug in particular do we ask about",
+				option1: "Beta blockers",
+				option2: "ACE inhibitors",
+				option3: "ARB",
+				option4: "Diuretics",
+				answer: 2
 			},
 			{
 				question: "What are three potential causes of a productive cough?",
